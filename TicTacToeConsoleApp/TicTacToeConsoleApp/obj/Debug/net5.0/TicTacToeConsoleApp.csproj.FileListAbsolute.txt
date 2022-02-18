@@ -1,0 +1,16 @@
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\net5.0\TicTacToeConsoleApp.exe
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\net5.0\TicTacToeConsoleApp.deps.json
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\net5.0\TicTacToeConsoleApp.runtimeconfig.json
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\net5.0\TicTacToeConsoleApp.runtimeconfig.dev.json
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\net5.0\TicTacToeConsoleApp.dll
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\net5.0\TicTacToeConsoleApp.pdb
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.AssemblyInfo.cs
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.dll
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\refint\TicTacToeConsoleApp.dll
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.pdb
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\TicTacToeConsoleApp.genruntimeconfig.cache
+C:\Users\ishan\source\repos\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\net5.0\ref\TicTacToeConsoleApp.dll
