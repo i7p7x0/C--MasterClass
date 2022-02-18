@@ -47,31 +47,31 @@ namespace TicTacToeConsoleApp
                     switch (moveAsInt)
                     {
                         case 1:
-                            board.UpdateBoard(0, 0, currentPlayer.PlayerSign);
-                            break;
+                            if (!board.UpdateBoard(0, 0, currentPlayer.PlayerSign)){ continue; };
+                            break; ;
                         case 2:
-                            board.UpdateBoard(0, 1, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(0, 1, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 3:
-                            board.UpdateBoard(0, 2, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(0, 2, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 4:
-                            board.UpdateBoard(1, 0, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(1, 0, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 5:
-                            board.UpdateBoard(1, 1, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(1, 1, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 6:
-                            board.UpdateBoard(1, 2, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(1, 2, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 7:
-                            board.UpdateBoard(2, 0, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(2, 0, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 8:
-                            board.UpdateBoard(2, 1, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(2, 1, currentPlayer.PlayerSign)) { continue; };
                             break;
                         case 9:
-                            board.UpdateBoard(2, 2, currentPlayer.PlayerSign);
+                            if (!board.UpdateBoard(2, 2, currentPlayer.PlayerSign)) { continue; };
                             break;
                         default: continue;
                     }

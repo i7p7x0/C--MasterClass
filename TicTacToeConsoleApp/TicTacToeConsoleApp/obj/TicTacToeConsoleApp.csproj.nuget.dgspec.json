@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ishan\\source\\repos\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj": {}
+    "D:\\Development_Practice\\C#\\C--MasterClass\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ishan\\source\\repos\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj": {
+    "D:\\Development_Practice\\C#\\C--MasterClass\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ishan\\source\\repos\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj",
+        "projectUniqueName": "D:\\Development_Practice\\C#\\C--MasterClass\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj",
         "projectName": "TicTacToeConsoleApp",
-        "projectPath": "C:\\Users\\ishan\\source\\repos\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj",
+        "projectPath": "D:\\Development_Practice\\C#\\C--MasterClass\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\TicTacToeConsoleApp.csproj",
         "packagesPath": "C:\\Users\\ishan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ishan\\source\\repos\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\obj\\",
+        "outputPath": "D:\\Development_Practice\\C#\\C--MasterClass\\TicTacToeConsoleApp\\TicTacToeConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ishan\\AppData\\Roaming\\NuGet\\NuGet.Config",

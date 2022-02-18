@@ -33,9 +33,15 @@ namespace TicTacToeConsoleApp
             }
 
         }
-        public void UpdateBoard(int row, int column, string markedMove)
+        public bool UpdateBoard(int row, int column, string markedMove)
         {
-            board[row, column] = markedMove;
+            if (board[row, column] != "O" && board[row, column] != "X")
+            {
+                board[row, column] = markedMove;
+                return true;
+            }
+            return false;
+
 
         }
 
